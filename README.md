@@ -1,28 +1,36 @@
 # Fiducial Objects 🎯
-### Overview
 
-Fiducial Objects is an innovative and versatile open-source project designed to simplify and enhance the usage of fiducial markers in various applications like robotics, augmented reality, and computer vision. Our customizable multiplanar fiducial markers are tailored to meet specific environment and tracking requirements, ensuring accurate and consistent results.
+## Overview
+Fiducial Objects are advanced fiducial markers designed for multiplanar space, offering customizable marker sets arranged in fully customizable structures. This design enhances stability and robustness in computing camera pose, improving resistance to distortions. Pose estimation is possible even with partial visibility of the fiducial object【15†source】.
 
-### Key Features
+## Tutorials
+Initial tutorials are available to help users familiarize themselves with the tool.
+- [ Introduction to the Fiducial Objects ](https://www.youtube.com/watch?v=YkQfQnKphWk).
+- [ First steps with the Fiducial Object Tool ](https://www.youtube.com/watch?v=mKcqBrWlq5c).
+- [ Creation of your first Fiducial Object ](https://www.youtube.com/watch?v=R__53asI8Sk).
+- [ Digging inside the marker generation ](https://www.youtube.com/watch?v=atqrqHfE6eE).
 
-    Multiplanar Customization 🌍: Supports the creation and customization of fiducial markers across multiple planes.
-    Robust Tracking 🔍: Engineered to provide reliable tracking for precise object tracking.
-    Open Source 💻: Encourages collaboration and community-driven development.
+## Download
+Code, tutorials, and applications are accessible for researchers and developers:
 
-### Getting Started 🚀
+- [Download the code from SourceForge](https://sourceforge.net/projects/fiducialobject/)
+- [Access the dataset from SourceForge](https://sourceforge.net/projects/fiducialobject-dataset/)
 
-To get started with Fiducial Objects, please visit the project page at SourceForge.
+## Citing
+If you use this library in your research, please cite:
 
-For downloading the dataset associated with Fiducial Objects, head over to this link.
+- Pablo Garcia-Ruiz, Francisco J Romero-Ramirez, Rafael Muñoz-Salinas, Manuel J Marin-Jimenez, Rafael Medina-Carnicer. Fiducial Objects: Custom Design and Evaluation.
+- Jurado-Rodriguez, D., et al. (2021). Design, detection, and tracking of customized fiducial markers. IEEE Access, 9, 140066–140078【18†source】.
 
-More details can be found on the Fiducial Objects project page.
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-### Academic Reference 📚
+## Contact
+For further questions, contact [pgruiz@uco.es](mailto:pgruiz@uco.es).
 
-This project is the output work of the paper:
+## Related Projects
+- [Marker Mapper](#)
+- [Aruco](#)
 
-"Fiducial Objects: Custom Design and Evaluation" by Pablo Garcia-Ruiz, Francisco J Romero-Ramirez, Rafael Muñoz-Salinas, Manuel J Marin-Jimenez, Rafael Medina-Carnicer.
-
-### License 📄
-
-This project is licensed under the MIT License.
+## Getting Started
+Visit the [Fiducial Objects project page](https://www.uco.es/investiga/grupos/ava/portfolio/fiducial-object/).
