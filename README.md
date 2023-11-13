@@ -1,36 +1,34 @@
-# Fiducial Objects 🎯
+# Fiducial Objects 🎯🌐
 
 ## Overview
-Fiducial Objects are advanced fiducial markers designed for multiplanar space, offering customizable marker sets arranged in fully customizable structures. This design enhances stability and robustness in computing camera pose, improving resistance to distortions. Pose estimation is possible even with partial visibility of the fiducial object【15†source】.
+🔍 Fiducial Objects are advanced fiducial markers for multiplanar space, offering customizable marker sets for enhanced stability and robustness in camera pose computation. They are effective even with partial marker visibility.
 
-## Tutorials
-Initial tutorials are available to help users familiarize themselves with the tool.
-- [ Introduction to the Fiducial Objects ](https://www.youtube.com/watch?v=YkQfQnKphWk).
-- [ First steps with the Fiducial Object Tool ](https://www.youtube.com/watch?v=mKcqBrWlq5c).
-- [ Creation of your first Fiducial Object ](https://www.youtube.com/watch?v=R__53asI8Sk).
-- [ Digging inside the marker generation ](https://www.youtube.com/watch?v=atqrqHfE6eE).
+## Tutorials 📚
+Step-by-step tutorials to get started:
+- [Introduction to Fiducial Objects](https://www.youtube.com/watch?v=YkQfQnKphWk)
+- [First Steps with the Fiducial Object Tool](https://www.youtube.com/watch?v=mKcqBrWlq5c)
+- [Creating Your First Fiducial Object](https://www.youtube.com/watch?v=R__53asI8Sk)
+- [Understanding Marker Generation](https://www.youtube.com/watch?v=atqrqHfE6eE)
 
-## Download
-Code, tutorials, and applications are accessible for researchers and developers:
+## Download 📥
+Access the resources for development and research:
+- [Download Code from SourceForge](https://sourceforge.net/projects/fiducialobject/)
+- [Access Dataset from SourceForge](https://sourceforge.net/projects/fiducialobject-dataset/)
 
-- [Download the code from SourceForge](https://sourceforge.net/projects/fiducialobject/)
-- [Access the dataset from SourceForge](https://sourceforge.net/projects/fiducialobject-dataset/)
+## Citing 📄
+If using this library in research, please cite:
+- Garcia-Ruiz et al., "Fiducial Objects: Custom Design and Evaluation".
+- Jurado-Rodriguez et al., "Design, Detection, and Tracking of Customized Fiducial Markers".
 
-## Citing
-If you use this library in your research, please cite:
+## License 📜
+Licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-- Pablo Garcia-Ruiz, Francisco J Romero-Ramirez, Rafael Muñoz-Salinas, Manuel J Marin-Jimenez, Rafael Medina-Carnicer. Fiducial Objects: Custom Design and Evaluation.
-- Jurado-Rodriguez, D., et al. (2021). Design, detection, and tracking of customized fiducial markers. IEEE Access, 9, 140066–140078【18†source】.
+## Contact 📧
+Questions? Contact [pgruiz@uco.es](mailto:pgruiz@uco.es).
 
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+## Related Projects 🔗
+- [Marker Mapper](https://www.uco.es/investiga/grupos/ava/portfolio/marker-mapper/)
+- [Aruco](https://www.uco.es/investiga/grupos/ava/portfolio/aruco/)
 
-## Contact
-For further questions, contact [pgruiz@uco.es](mailto:pgruiz@uco.es).
-
-## Related Projects
-- [Marker Mapper](#)
-- [Aruco](#)
-
-## Getting Started
-Visit the [Fiducial Objects project page](https://www.uco.es/investiga/grupos/ava/portfolio/fiducial-object/).
+## Getting Started 🚀
+For more details, visit the [Fiducial Objects project page](https://www.uco.es/investiga/grupos/ava/portfolio/fiducial-object/).
