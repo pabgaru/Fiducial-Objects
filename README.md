@@ -44,7 +44,7 @@ Licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contact 📧
 Questions? Contact [pgruiz@uco.es](mailto:pgruiz@uco.es).
-Please support ny career through my [Github](https://github.com/pabgaru) and [YouTube](https://www.youtube.com/channel/UChmAOYqpthYZoGQ8GW4u2kQ) profiles.
+Please support my career through my [Github](https://github.com/pabgaru) and [YouTube](https://www.youtube.com/channel/UChmAOYqpthYZoGQ8GW4u2kQ) profiles.
 
 ## Related Projects 🔗
 - [Marker Mapper](https://www.uco.es/investiga/grupos/ava/portfolio/marker-mapper/)
